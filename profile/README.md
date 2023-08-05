@@ -3,7 +3,7 @@
 
 ## Repos
 
-- [LUMOS](/cs-magic/lumos), a full-stack AIGC workspace app, powered by modern technologies like [typescript](https://www.typescriptlang.org/), [nextjs](https://nextjs.org/), [trpc](https://trpc.io/), [shadcn-ui](https://ui.shadcn.com/), etc.
+- [LUMOS](https://github.com/cs-magic/lumos), a full-stack AIGC workspace app, powered by modern technologies like [typescript](https://www.typescriptlang.org/), [nextjs](https://nextjs.org/), [trpc](https://trpc.io/), [shadcn-ui](https://ui.shadcn.com/), etc.
 
 ## Team
 
