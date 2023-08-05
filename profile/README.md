@@ -13,8 +13,8 @@
 - Vission: Every Human Being is A Magician.
 - Values: Truth-seeking, Transparency, Creation, Excellence, Agility, Advancement.
 
-### Members
+### Founders
 
-- [Mark Shawn](https://github.com/markshawn2020), the founder and CTO of CS Magic Community, dropped out of UESTC, an experienced full-stack engineer.
-- [Nicole Yao](https://github.com/nicoleyao), the co-founder and CEO of CS Magic Community, graduated from UPenn, an experienced marketing.
+- [Mark Shawn](https://github.com/markshawn2020), dropped out of UESTC, an experienced full-stack engineer.
+- [Nicole Yao](https://github.com/nicoleyao), graduated from UPenn, an experienced marketing.
 
