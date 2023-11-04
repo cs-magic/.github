@@ -16,5 +16,5 @@
 ### Founders
 
 - [Mark Shawn](https://github.com/markshawn2020), dropped out of UESTC, an experienced full-stack engineer.
-- [Nicole Yao](https://github.com/nicoleyao), graduated from UPenn, an experienced marketing.
+- [Nicole Yao](https://github.com/nicoleyao), graduated from UPenn, an experienced marketer.
 
