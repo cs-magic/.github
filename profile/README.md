@@ -1,20 +1,16 @@
-# CS Magic Community
+# CS Magic
 
+## Founder
 
-## Repos
+- [Mark Shawn](https://github.com/markshawn2020), an experienced full-stack engineer, base BeiJing, China.
 
-- [LUMOS](https://github.com/cs-magic/lumos), a full-stack AIGC workspace app, powered by modern technologies like [typescript](https://www.typescriptlang.org/), [nextjs](https://nextjs.org/), [trpc](https://trpc.io/), [shadcn-ui](https://ui.shadcn.com/), etc.
+## Products
 
-## Team
+- [Codebase](https://github.com/cs-magic/codebase), a full-stack AIGC workspace, powered by modern technologies like [TypeScript](https://www.typescriptlang.org/), [NextJS](https://nextjs.org/), [TRPC](https://trpc.io/), [ShadcnUI](https://ui.shadcn.com/), [ElectornJS](https://www.electronjs.org/) etc.
 
-### Culture
+## Culture
 
-- Mision: We always insist on making good products that are "user-friendly, professional and reliable" so that everyone can enjoy the beauty of knowledge and creation.
+- Mision: To build products that are Yummy, Optimal, Loving, Opportune.
 - Vission: Every Human Being is A Magician.
 - Values: Truth-seeking, Transparency, Creation, Excellence, Agility, Advancement.
-
-### Founders
-
-- [Mark Shawn](https://github.com/markshawn2020), dropped out of UESTC, an experienced full-stack engineer.
-- [Nicole Yao](https://github.com/nicoleyao), graduated from UPenn, an experienced marketer.
 
