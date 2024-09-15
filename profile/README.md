@@ -1,4 +1,4 @@
-# CS Magic
+# CS Magic Open Source
 
 ## Founder
 
