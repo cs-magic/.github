@@ -2,7 +2,7 @@
 
 ## Founder
 
-- [Mark Shawn](https://github.com/markshawn2020), an experienced full-stack engineer, base BeiJing, China.
+- [Mark Shawn](https://github.com/markshawn2020), an experienced full-stack engineer, the Founder/CEO/CTO of an high-tech startup.
 
 ## Products
 
