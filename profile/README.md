@@ -10,7 +10,7 @@
 
 ## Culture
 
-- Mision: To build products that are Yummy, Optimal, Loving, Opportune.
 - Vission: Every Human Being is A Magician.
+- Mision: To build tech-driven, user-friendly products.
 - Values: Truth-seeking, Transparency, Creation, Excellence, Agility, Advancement.
 
